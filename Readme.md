@@ -8,7 +8,7 @@ Graduate of SPbGASU'13 and Yandex.Praktikum'24 <br>
 [**Vinyl Store**](https://github.com/xdpxrt/pet-vinyl-store)
 is my pet-project where the technologies I've learned are put to use. 
 It's a backend of vinyl store, where you can find records of your favourite bands and buy them!<br>
-!!!Still in process!!!
+!!!Still in process!!!<br>
 **Stack:**<br>
 ![Java](https://img.shields.io/badge/-Java-F29111?style=for-the-badge&logo=java&logoColor=FFFFFF)
 ![Spring](https://img.shields.io/badge/-Spring-6AAD3D?style=for-the-badge&logo=spring&logoColor=FFFFFF)
